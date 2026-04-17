@@ -6,4 +6,6 @@
 - `:NoPartyCursor`
 - `:PartyCursorToggle`
 
+Note: Only for GUI vim with Vim9 script support!
+
 [Cult of the Party Parrot](https://cultofthepartyparrot.com/)

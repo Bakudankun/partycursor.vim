@@ -6,4 +6,4 @@
 - `:NoPartyCursor`
 - `:PartyCursorToggle`
 
-cultofthepartyparrot.com
+[Cult of the Party Parrot](https://cultofthepartyparrot.com/)
